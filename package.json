@@ -1,0 +1,13 @@
+{
+  "title": "Non-Hot StackOverflow",
+  "name": "firefox-module-stackoverflow-hide",
+  "version": "0.0.1",
+  "description": "Hides \"Hot Network Questions\" on StackOverflow",
+  "main": "index.js",
+  "author": "Ahmed Fasih",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "Unlicense"
+}
