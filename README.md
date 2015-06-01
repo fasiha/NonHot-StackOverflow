@@ -1,5 +1,5 @@
 # Introduction
-A very simple proof-of-concept Firefox add-on that blocks that "Hot Network Questions" section of StackOverflow.com pages.
+A very simple proof-of-concept Firefox add-on that blocks that "Hot Network Questions" section of StackOverflow.com pages, as well as the promoted Meta posts.
 
 Built using `jpm`!
 
