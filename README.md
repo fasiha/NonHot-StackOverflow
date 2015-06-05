@@ -4,7 +4,8 @@ A very simple proof-of-concept Firefox add-on that blocks that "Hot Network Ques
 Built using `jpm`!
 
 # Installation
+1. Download the latest [XPI file](@firefox-module-stackoverflow-hide-0.0.1.xpi?raw=true).
 1. Visit [`about:addons`](about:addons) in Firefox.
-2. Click the gear icon in the top-right to see the drop-down menu, and select "Install Add-on From File…".
-3. Add the `.xpi` file in this repository. No restart needed!
+1. Click the gear icon in the top-right to see the drop-down menu, and select "Install Add-on From File…".
+1. Add the XPI file, no restart needed!
 
